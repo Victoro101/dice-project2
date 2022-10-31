@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+
+body {
+    background: lightcoral;
+}
+
+.rock {
+    font-size: 30px;
+    font-style: italics;
+    color: rgb(41, 11, 11);
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 500px;
+    color: rgb(41, 11, 11);
+}
+
+p,
+h1 {
+    text-align: center;
+}
+
+.select {
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.items {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+input[type="radio"] {
+    transform: scale(2);
+    margin: 2ch 2ch 0 2ch;
+
+
+}
+
+.start {
+    text-align: center;
+    margin: 5ch 0 0 0;
+}
+
+#start {
+    background: rgb(22, 223, 22);
+    height: 10vh;
+    width: 20%;
+    border-radius: 30px;
+    border: 2px solid rgb(1, 77, 1);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.field {
+    text-align: center;
+    margin: 5ch 0 0 0;
+}
+
+.pick {
+    border-radius: 10px;
+
+}
+
+img {
+    border-radius: 20px;
+}
+
+.player-name {
+    margin: 2ch 0 0 0;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(0, 0, 119);
+
+}
+
+.player1 {
+    text-align: center;
+}
+
+.set {
+    text-align: center;
+}
